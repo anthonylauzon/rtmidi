@@ -45,6 +45,7 @@
 
 #define RTMIDI_VERSION "2.1.0"
 
+#define MAX_PACKET_LIST_SIZE 65536
 #include <exception>
 #include <iostream>
 #include <string>
